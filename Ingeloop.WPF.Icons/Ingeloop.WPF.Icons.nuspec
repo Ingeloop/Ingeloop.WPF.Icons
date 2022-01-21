@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>Package</id>
-    <version>1.0.0</version>
-    <authors>Ingeloop</authors>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <icon>Logo-128x128.png</icon> 
+	<icon>images\Logo-128x128.png</icon>
     <projectUrl>https://github.com/Ingeloop/Ingeloop.WPF.Icons</projectUrl>
     <description>Icons library for WPF (Material Design Icons)</description>
-    <releaseNotes>Test</releaseNotes>
+    <releaseNotes></releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>WPF Icons Material</tags>
   </metadata>
+  <files>
+    <file src="..\..\Logo-128x128.png" target="images\" />
+  </files>
 </package>
