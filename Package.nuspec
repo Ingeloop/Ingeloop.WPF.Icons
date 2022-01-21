@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Ingeloop</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <description>Icons library for WPF (Material Design Icons)</description>
+    <releaseNotes>Test</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>WPF Icons Material</tags>
+  </metadata>
+</package>
