@@ -29,7 +29,7 @@ Load the resource to your UI, as follow:
 Use Icons:
 
 ```xaml
-<icons:PackIcon Kind="Abacus" Size="32"/>
+<icons:PackIcon Kind="UserAdd" Size="32"/>
 ```
 
 Kind property is used according to the tag of the icons of https://materialdesignicons.com/
