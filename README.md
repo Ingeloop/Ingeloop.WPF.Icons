@@ -32,4 +32,4 @@ Use Icons:
 <icons:PackIcon Kind="UserAdd" Size="32"/>
 ```
 
-Kind property is used according to the tag of the icons of https://materialdesignicons.com/
+Kind property is used according to the tags of the icons of https://materialdesignicons.com/
