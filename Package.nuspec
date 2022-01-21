@@ -6,7 +6,8 @@
     <authors>Ingeloop</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <!-- <icon>icon.png</icon> -->
+    <icon>Logo-128x128.png</icon> 
+    <projectUrl>https://github.com/Ingeloop/Ingeloop.WPF.Icons</projectUrl>
     <description>Icons library for WPF (Material Design Icons)</description>
     <releaseNotes>Test</releaseNotes>
     <copyright>$copyright$</copyright>
