@@ -33,3 +33,7 @@ Use Icons:
 ```
 
 Kind property is used according to the tags of the icons of https://materialdesignicons.com/
+
+## Demo:
+
+[Demo Project](https://github.com/Ingeloop/Ingeloop.WPF.Icons/tree/master/Ingeloop.WPF.Icons.Demo)
