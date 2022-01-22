@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingeloop.WPF.Icons", "Ingeloop.WPF.Icons\Ingeloop.WPF.Icons.csproj", "{5EADBD77-75E1-4088-8FC2-1E46A6FC5DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingeloop.WPF.Icons.Test", "Ingeloop.WPF.Icons.Test\Ingeloop.WPF.Icons.Test.csproj", "{0C9D2111-E317-49C1-98B7-C10C1D902F8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ingeloop.WPF.Icons.Demo", "Ingeloop.WPF.Icons.Demo\Ingeloop.WPF.Icons.Demo.csproj", "{0C9D2111-E317-49C1-98B7-C10C1D902F8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

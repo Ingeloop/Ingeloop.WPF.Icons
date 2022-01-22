@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ingeloop.WPF.Icons.Test.Properties
+namespace Ingeloop.WPF.Icons.Demo.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Ingeloop.WPF.Icons.Test.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Ingeloop.WPF.Icons.Test.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Ingeloop.WPF.Icons.Demo.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

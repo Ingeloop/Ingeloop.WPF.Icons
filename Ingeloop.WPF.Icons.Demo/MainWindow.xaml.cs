@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Ingeloop.WPF.Icons.Test
+namespace Ingeloop.WPF.Icons.Demo
 {
     /// <summary>
     /// Logique d'interaction pour MainWindow.xaml

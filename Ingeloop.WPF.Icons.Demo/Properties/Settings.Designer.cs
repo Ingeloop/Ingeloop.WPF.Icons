@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ingeloop.WPF.Icons.Test.Properties
+namespace Ingeloop.WPF.Icons.Demo.Properties
 {
 
 

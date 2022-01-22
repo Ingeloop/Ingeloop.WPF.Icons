@@ -1,7 +1,7 @@
-﻿<Application x:Class="Ingeloop.WPF.Icons.Test.App"
+﻿<Application x:Class="Ingeloop.WPF.Icons.Demo.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Ingeloop.WPF.Icons.Test"
+             xmlns:local="clr-namespace:Ingeloop.WPF.Icons.Demo"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          

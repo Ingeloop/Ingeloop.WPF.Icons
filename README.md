@@ -21,7 +21,7 @@ xmlns:icons="clr-namespace:Ingeloop.WPF.Icons;assembly=Ingeloop.WPF.Icons"
 Load the resource to your UI, as follow:
 
 ```xaml
-<ResourceDictionary Source="pack://application:,,,/Ingeloop.WPF.Icons;component/Generic.xaml"/>
+<ResourceDictionary Source="pack://application:,,,/Ingeloop.WPF.Icons;component/Resources/Generic.xaml"/>
 ```
 
 ### 3) Usage:
