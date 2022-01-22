@@ -4,7 +4,7 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
+    <authors>Léo SALVADOR</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
 	<icon>images\Logo-128x128.png</icon>
@@ -15,6 +15,6 @@
     <tags>WPF Icons Material</tags>
   </metadata>
   <files>
-    <file src="..\..\Logo-128x128.png" target="images\" />
+    <file src="..\Logo-128x128.png" target="images\" />
   </files>
 </package>

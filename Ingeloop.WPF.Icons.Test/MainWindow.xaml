@@ -7,18 +7,14 @@
         xmlns:icons="clr-namespace:Ingeloop.WPF.Icons;assembly=Ingeloop.WPF.Icons"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    
+
     <Window.Resources>
-        <ResourceDictionary>
-            <ResourceDictionary.MergedDictionaries>
-                <ResourceDictionary Source="pack://application:,,,/Ingeloop.WPF.Icons;component/Generic.xaml"/>
-            </ResourceDictionary.MergedDictionaries>
-        </ResourceDictionary>
+        <ResourceDictionary Source="pack://application:,,,/Ingeloop.WPF.Icons;component/Generic.xaml"/>
     </Window.Resources>
 
     <Grid>
         <StackPanel Orientation="Vertical">
-            <icons:PackIcon Kind="Abacus" Size="32"/>
+            <icons:PackIcon Kind="UserAdd" Size="32"/>
             <icons:PackIcon Kind="Abc" />
             <icons:PackIcon Kind="AbjadArabic" />
             <icons:PackIcon Kind="AbjadHebrew" />
